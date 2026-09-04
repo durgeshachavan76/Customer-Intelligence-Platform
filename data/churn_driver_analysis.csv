@@ -1,0 +1,27 @@
+feature_name,importance_weight,relative_impact_pct,business_description,driver_type
+R_Score,0.5709957553539192,57.1,Recent inactivity and lapse since last order,Customer Engagement
+rfm_total_score,0.21047001439558544,21.05,Composite RFM customer loyalty health score,Financial & Monetary
+F_Score,0.04607668778372061,4.61,Purchase frequency and re-order habits,Financial & Monetary
+total_items_purchased,0.03430713320973116,3.43,Cumulative physical items ordered,Financial & Monetary
+monetary,0.032982097192766166,3.3,Historical spend volume and economic attachment,Financial & Monetary
+M_Score,0.022164919505858336,2.22,Monetary spend quintile tier,Financial & Monetary
+avg_order_value,0.016631223227167473,1.66,Average basket size per order,Financial & Monetary
+avg_shipping_delay,0.012052278419597284,1.21,Logistics bottlenecks and delivery friction,Operational Friction
+tenure_days,0.01103280862595472,1.1,Customer lifetime age and brand familiarity,Financial & Monetary
+avg_discount_rate,0.010268418331558886,1.03,Price sensitivity and promo dependency,Financial & Monetary
+email_open_rate,0.010205970621499524,1.02,Brand engagement and marketing responsiveness,Customer Engagement
+support_tickets_opened,0.0041625855770864376,0.42,Customer service friction and unresolved complaints,Operational Friction
+total_returns,0.0033776293103072886,0.34,Product dissatisfaction and return frequency,Operational Friction
+acquisition_channel_Organic Search,0.0013880995622198233,0.14,Channel or Demographic Segment Factor,Financial & Monetary
+acquisition_channel_Social Media,0.001360830632380841,0.14,Channel or Demographic Segment Factor,Financial & Monetary
+country_USA,0.0013510410150804585,0.14,Channel or Demographic Segment Factor,Financial & Monetary
+app_installed,0.0012370885699254507,0.12,Mobile ecosystem adoption and accessibility,Customer Engagement
+preferred_category_Beauty & Health,0.0012323347087632738,0.12,Channel or Demographic Segment Factor,Financial & Monetary
+preferred_category_Sports,0.001228545741507418,0.12,Channel or Demographic Segment Factor,Financial & Monetary
+acquisition_channel_Paid Ads,0.0012227918483708189,0.12,Channel or Demographic Segment Factor,Financial & Monetary
+preferred_category_Home & Kitchen,0.0011810483404969046,0.12,Channel or Demographic Segment Factor,Financial & Monetary
+country_UK,0.0011270841834010608,0.11,Channel or Demographic Segment Factor,Financial & Monetary
+preferred_category_Electronics,0.0010934362348920062,0.11,Channel or Demographic Segment Factor,Financial & Monetary
+country_Canada,0.0009810110809330018,0.1,Channel or Demographic Segment Factor,Financial & Monetary
+country_Germany,0.0009489820437091662,0.09,Channel or Demographic Segment Factor,Financial & Monetary
+acquisition_channel_Referral,0.0009201844835673243,0.09,Channel or Demographic Segment Factor,Financial & Monetary
