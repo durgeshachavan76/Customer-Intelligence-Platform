@@ -235,7 +235,7 @@ Features a 13-month quarterly cohort heatmap (Months 0–12) tracking repeat pur
 ### Local Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/pratikmalik/Customer-Intelligence-Platform.git
+git clone https://github.com/durgeshachavan76/Customer-Intelligence-Platform.git
 cd Customer-Intelligence-Platform
 
 # Install dependencies
@@ -265,3 +265,11 @@ python src/test_api.py
 ```bash
 docker compose up --build
 ```
+
+---
+
+## 14. Contributors & Maintainers
+
+- **[Durgesha Chavan](https://github.com/durgeshachavan76)** — Project Deployment, Setup & Repository Maintainer
+- **[Pratik Malik](https://github.com/pratikmalik)** — Original Analytics Architecture & ML Models
+
